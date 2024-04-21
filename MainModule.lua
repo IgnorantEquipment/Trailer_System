@@ -1,5 +1,5 @@
 local module = {}
-local function Initialize()
+local function Initialize(Trailer)
 	print("Hello World!")
 end
 return module
